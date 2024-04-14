@@ -1,3 +1,7 @@
+## Author: Calvin Ruch - 4/13/24
+## Description: This class is used to insert data into the database
+##              and fetch data from the database
+
 import sqlite3
 class Weather:
     def __init__(self, db_file):
